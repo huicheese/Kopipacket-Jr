@@ -6,4 +6,4 @@ A psychopath who has been force-feeding children thumbdrives has been caught rec
 
 You are now given the file that ***Dr Ahahanaf Pole Cdkey*** has extracted, and the police needs your help in finding out exactly what and why is ***Edih Gets*** doing this, and they believe that the file would give you clues to it.
 
-After working with the forensics team, both ***Dr Habin Muhammad Lee*** and ***Dr Ahahanaf Pole Cdkey*** found that the final answer to that question is a string of words. In order for this evidence to be accepted in the courts, please use the format ***kopiCTF{ }*** with the answer placed inside ***{ }***.
+After working with the forensics team, both ***Dr Habin Muhammad Lee*** and ***Dr Ahahanaf Pole Cdkey*** found that the final answer to that question is a string of words. In order for this evidence to be accepted in the courts, please use the format ***flag{ }*** with the answer placed inside ***{ }***.
